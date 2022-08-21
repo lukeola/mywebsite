@@ -60,14 +60,14 @@
     }
 
     #experience {
-        margin-top: 20rem !important;
+        margin-top: 10rem !important;
     }
 }
 
 /* MEDIA QUERIES FOR SMALL DEVICES */
 @media screen and (max-width: 600px) {
     #experience {
-        margin-top: 33rem !important;
+        margin-top: 30rem !important;
     }
     .experience__container {
         gap: 1rem ;

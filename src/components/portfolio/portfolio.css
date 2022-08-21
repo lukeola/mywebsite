@@ -49,7 +49,7 @@
 /* MEDIA QUERIES FOR SMALL DEVICES */
 @media screen and (max-width: 600px) {
     section #porfolio {
-       margin-top: 45rem !important;
+       margin-top: 35rem !important;
     }
     
     .portfolio__container{
@@ -57,6 +57,6 @@
     }
 
     .portfolio__div {
-        padding-top: 35rem;
+        padding-top: 27rem;
     }
 }

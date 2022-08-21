@@ -13,7 +13,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'The 3K Shop',
-    github: 'https://github.com/lukeola/mywebsite',
+    github: 'https://github.com/lukeola/the3kshop',
     demo:'https://the3kshop.com'
   },
 
@@ -21,7 +21,7 @@ const data = [
     id: 1,
     image: IMG2,
     title: 'Teleconnect Outsource',
-    github: 'https://github.com/lukeola/mywebsite',
+    github: 'https://github.com/lukeola/teleconnect',
     demo:'https://teleconnectoutsource.com'
   },
 
@@ -29,7 +29,7 @@ const data = [
     id: 2,
     image: IMG3,
     title: 'OPS Surge',
-    github: 'https://github.com/lukeola/mywebsite',
+    github: 'https://github.com/lukeola/opssurge',
     demo:'https://opssurge.org'
   },
 
@@ -37,7 +37,7 @@ const data = [
     id: 3,
     image: IMG4,
     title: 'Your Rider',
-    github: 'https://github.com/lukeola/mywebsite',
+    github: 'https://github.com/lukeola/yourrider',
     demo:'https://yourrider.com' 
   },
 
@@ -45,15 +45,15 @@ const data = [
     id: 1,
     image: IMG5,
     title: 'Abuja Realtors',
-    github: 'https://github.com/lukeola/mywebsite',
-    demo:'https://yourrider.com'
+    github: 'https://github.com/lukeola/abujarealtors',
+    demo:'https://abujarealtors.com'
   },
 
   {
     id: 1,
     image: IMG6,
     title: 'Nasacrown',
-    github: 'https://github.com/lukeola/mywebsite',
+    github: 'https://github.com/lukeola/nasacrown',
     demo:'https://nasacrown.com.ng'
   },
 ]

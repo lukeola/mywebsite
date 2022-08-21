@@ -48,7 +48,7 @@ header {
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 1rem 1rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 
@@ -76,8 +76,8 @@ header {
 /* MEDIA QUERIES FOR SMALL DEVICES */
 @media screen and (max-width: 600px) {
     header{
-        height: 110vh;
-        margin-bottom: -10px;
+        height: 100vh;
+        margin-bottom: -15px;
     }
     .scroll__down, .header__socials{
         display: none;

@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FiAward  className="about__icon"/>
               <h5> Experience </h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
           
             <article className='about__card'>
@@ -35,12 +35,12 @@ const About = () => {
               <article className='about__card'>
                 <VscFolderActive className="about__icon"/>
                 <h5> Projects </h5>
-                <small>10+ Colpeted</small>
+                <small>10+ Completed</small>
               </article>
               
           </div>
           <p>
-          I am a full stack developer with 1+ years experience in developing scalable web applications
+          I am a full stack developer with 2+ years experience in developing scalable web applications
           and working across the full stack. I love contributing to the positive outcome of making life easier with technology and creative coding.
 
           </p>

@@ -70,7 +70,7 @@
 /* MEDIA QUERIES FOR SMALL DEVICES */
 @media screen and (max-width: 600px) {
    #services {
-    margin-top: 25rem;
+    margin-top: 22rem;
    }
    
     .services__container {
