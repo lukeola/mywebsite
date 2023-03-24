@@ -2,13 +2,39 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/the3kshop.PNG'
 import IMG2 from '../../assets/teleconnect.PNG'
-import IMG3 from '../../assets/opssurge.PNG'
+import Precision from '../../assets/precisioninfo.PNG'
 import IMG4 from '../../assets/yourrider.PNG'
-import IMG5 from '../../assets/abujareal.PNG'
+import Nearpays from '../../assets/nearpays-snip.PNG'
 import IMG6 from '../../assets/nasa.PNG'
 
 
 const data = [
+
+  {
+    id: 1,
+    image: Nearpays,
+    title: 'Nearpays Limited',
+    github: 'https://github.com/lukeola/nearpays',
+    demo:'https://nearpays.com'
+  },
+
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Your Rider',
+    github: 'https://github.com/lukeola/yourrider',
+    demo:'https://yourrider.com' 
+  },
+
+  {
+    id: 3,
+    image: Precision,
+    title: 'Precision Infotech',
+    github: 'https://github.com/lukeola/precisioninfotech',
+    demo:'https://Precisioninfotech.com'
+  },
+
+
   {
     id: 1,
     image: IMG1,
@@ -18,39 +44,18 @@ const data = [
   },
 
   {
-    id: 1,
+    id: 2,
     image: IMG2,
     title: 'Teleconnect Outsource',
     github: 'https://github.com/lukeola/teleconnect',
     demo:'https://teleconnectoutsource.com'
   },
 
-  {
-    id: 2,
-    image: IMG3,
-    title: 'OPS Surge',
-    github: 'https://github.com/lukeola/opssurge',
-    demo:'https://opssurge.org'
-  },
+
+
 
   {
-    id: 3,
-    image: IMG4,
-    title: 'Your Rider',
-    github: 'https://github.com/lukeola/yourrider',
-    demo:'https://yourrider.com' 
-  },
-
-  {
-    id: 1,
-    image: IMG5,
-    title: 'Abuja Realtors',
-    github: 'https://github.com/lukeola/abujarealtors',
-    demo:'https://abujarealtors.com'
-  },
-
-  {
-    id: 1,
+    id: 6,
     image: IMG6,
     title: 'Nasacrown',
     github: 'https://github.com/lukeola/nasacrown',
